@@ -62,12 +62,11 @@ Code Editor: Visual Studio Code
 Install and open XAMPP.
 Start Apache and MySQL.
 Copy the Recipe Blog project folder into C:\xampp\htdocs\.
-Open phpMyAdmin: http://localhost/phpmyadmin/
 Create the required database.
 Import the project's SQL file into the database.
-Open your browser and visit:
 
-http://localhost/Recipe-Blog/
+
+
 
 🤝 Connect with Me
 
